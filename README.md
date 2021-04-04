@@ -10,7 +10,7 @@ Feel free to reach out with any questions 😄
 
   ### Presentation Slides:  
   
-## 💻 DivDay, University of Texas 
+## 💻 DivDay @ University of Texas 
 ### Computer Science Dept. 2019
 
   ### Description:
