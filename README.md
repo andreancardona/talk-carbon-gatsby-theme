@@ -1,7 +1,7 @@
 # 📢 Talks & Presentations
 Feel free to reach out with any questions 😄
 ---------------------------------
-💻  ## Building a Carbon Gatsby Theme
+## 💻 Building a Carbon Gatsby Theme
 ### Lightning talk 2020
 
   ### Description:
@@ -10,7 +10,7 @@ Feel free to reach out with any questions 😄
 
   ### Presentation Slides:  
   
-💻  ## DivDay, University of Texas 
+## 💻 DivDay, University of Texas 
 ### Computer Science Dept. 2019
 
   ### Description:
